@@ -1,74 +1,33 @@
 body{
-  background-color: #52596b;
+  background-color: #FFFFFF;
   background-image:
     url(background.jpg);
     /* margin-left: 40px; */
     font-family: helvetica, Arial, "Lucida Grande", sans-serif;
     color:white;
     letter-spacing: -4px;
-    /* margin: 0; */
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
   }
     
-    /*
-
-div#header-cont {
-    width:100%;
-    position:fixed;
-    top:0px;
-                 }
-
-div#header {
-    background-image:url('stripes.png');
-    background-repeat: repeat-x;
-    background:url(stripes.png) repeat-x;
-    margin:0px auto;
-    /* top:0px; */
-               /*  }  */
-
- div#logo{
-        margin-top: 600px;
-        margin-left: 340px;
-         font-family: "Source Sans Pro"; 
-         font-size: 24px;
-letter-spacing: 1.5px;
+    
+div#logo{
+    margin-top: 600px;
+    margin-left: 320px;
+    font-family: "Source Sans Pro";  
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    line-height: 3px;
     }
-
-
-div#Soup
-{
-  height:50px;
-  width:100px;
-  border: 0px ;
-  border-radius:50px / 25px;
-  background-color:#E84C0C;;
-}
-
- div#title_soup{
-    font-weight: bolder;
-    color: #EE9622;
-   } 
-
- div#title_club {
-    font-size: 72px;
-    font-weight: normal;
-    color: #F5EDE0;
-  }
-
-
-
-h3{
-    font-weight: lighter;
-     margin-left: 330px;
-}
 
 
 a{
 	text-decoration: none;
  } 
 
- div#content{
+div#content{
   height: 300px;
-    margin-left: 40px;
-    padding-left: 40px;
+  margin-left: 40px;
+  padding-left: 40px;
  }
 
